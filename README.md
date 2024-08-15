@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0661-image-smoother) |
+| [0777-toeplitz-matrix](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0777-toeplitz-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0661-image-smoother) |
+| [0777-toeplitz-matrix](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0777-toeplitz-matrix) |
 ## Simulation
 |  |
 | ------- |
