@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0661-image-smoother](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,11 +25,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0661-image-smoother](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0898-transpose-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
