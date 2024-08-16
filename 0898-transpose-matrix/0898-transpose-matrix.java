@@ -6,7 +6,7 @@ class Solution {
                 transposematrix[j][i]=matrix[i][j];
             }
         }
-        System.gc();
+       
         return transposematrix;
     }
 }
