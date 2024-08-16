@@ -6,7 +6,6 @@ class Solution {
                 transposematrix[j][i]=matrix[i][j];
             }
         }
-       
         return transposematrix;
     }
 }
