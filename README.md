@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [0463-island-perimeter](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0661-image-smoother) |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -48,4 +50,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0861-flipping-an-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
