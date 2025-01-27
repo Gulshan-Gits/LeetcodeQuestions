@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [0463-island-perimeter](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0566-reshape-the-matrix) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0861-flipping-an-image](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0169-majority-element) |
 ## Counting
 |  |
