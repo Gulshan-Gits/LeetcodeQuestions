@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0217-contains-duplicate) |
 | [0463-island-perimeter](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0661-image-smoother) |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0217-contains-duplicate) |
 | [3227-find-missing-and-repeated-values](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
