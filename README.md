@@ -75,4 +75,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/3227-find-missing-and-repeated-values) |
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
