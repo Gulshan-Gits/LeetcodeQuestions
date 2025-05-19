@@ -80,6 +80,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0242-valid-anagram) |
 | [3379-score-of-a-string](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/3379-score-of-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Gulshan-Gits/LeetcodeQuestions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
